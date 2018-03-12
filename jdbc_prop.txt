@@ -1,0 +1,5 @@
+url:jdbc:mysql://localhost/andersen_jdbc
+driver:com.mysql.jdbc.Driver
+user:root
+password:root
+connections:1
